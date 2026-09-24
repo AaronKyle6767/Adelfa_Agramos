@@ -1,6 +1,6 @@
 # THE CIRCULAR GARDEN
 ## Description
-This code is used to solve for several math things 
+This code is used to solve for several math things such as: The area of a circle, the circumference of a circle, the square root of the area, the area when rounded up or down to the nearest whole number. This code will help you a lot when trying to solve for your circular garden
 
 ## How To Run
 Simply input any number(Decimals are also allowed) for the radius and the code solves everything.
